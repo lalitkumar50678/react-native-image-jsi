@@ -1,6 +1,6 @@
 # react-native-jsi-template
 
-This is an example library that explains how anyone can build jsi modules from scratch in React Native. This code is written as a support project for my [blog](https://blog.notesnook.com/getting-started-react-native-jsi/).
+This is an example of filling an Image view via JSI in React Native
 
 ## Installation
 
